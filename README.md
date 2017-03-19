@@ -1,2 +1,2 @@
 # CodingChallenge
-Solution for MAN -AHL Coding Challenge
+Solution for Coding Challenge
