@@ -1,5 +1,5 @@
 import unittest
-import MAN_AHL_Coding.next_num as man_ahl
+import next_num as man_ahl
 
 
 class TestRandomGen(unittest.TestCase):
