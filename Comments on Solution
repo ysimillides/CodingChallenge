@@ -1,0 +1,4 @@
+To make the code more pythonic, the main thing I would do is use the inbuilt function from numpy 
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html , which allows us to reduce the problem , to an already 
+solved one. Furthermore I would possibly implement the randon numbers using  os.urandom() or SystemRandom as these are more 
+cryptographically secure.
