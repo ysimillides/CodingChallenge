@@ -32,6 +32,5 @@ class RandomGen(object):
         for position, prob in enumerate(self.probabilities):
             count_prob += prob
             if random_prob < count_prob:
-                number = self.random_nums[position]
-                return number
+                return self.random_nums[position]
 
